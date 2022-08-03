@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;700;800&display=swap');
+
+body {
+  background-color: rgb(207, 219, 210);
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(20,20,20);
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: 400;
+  text-align: center;
+  color: rgb(39, 67, 51);
+}
+
+p {
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  color: rgb(40,40,40);
+}
+
+a {
+  text-decoration: none;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(39, 67, 51);
+}
+
+a:hover {
+  color: rgb(124, 125, 124);
+}
+
+div {
+  background: rgb(240,240,240);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 7px;
+}
+
+.list-follow {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+}
+
+.l-item {
+  display: inline-block;
+  font-size: 30px;
+  margin: 5px 20px;
+}
+
+#profile {
+  font-size: 23px;
+  padding: 10px 15px;
+  color: white;
+  background-color: rgb(39, 67, 51);
+  border-radius: 4px;
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
+
+#profile:hover {
+  background-color: rgb(124, 125, 124);
+}
